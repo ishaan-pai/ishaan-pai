@@ -1,9 +1,9 @@
-<h1 align="left">>ishaan pai</h1>
+<h1 align="left">> ishaan pai</h1>
 <h3 align="left">computer engineering student living below abstraction..</h3>
 
 ↳ email: **ishaanpai.dev@gmail.com**
 
-↳ v0.1 → [python CLI task manager](https://github.com/ishaan-pai/CLI-Task-Manager)
+↳ currently working on: [python CLI task manager](https://github.com/ishaan-pai/CLI-Task-Manager)
 
 ↳ machine learning and backend engineering focused
 
