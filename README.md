@@ -1,13 +1,10 @@
-<h1 align="center">>ishaan pai</h1>
-<h3 align="center">computer engineering student living below abstraction..</h3>
+<h1 align="left">>ishaan pai</h1>
+<h3 align="left">computer engineering student living below abstraction..</h3>
 
-- ↳ email: **ishaanpai.dev@gmail.com**
-
-- ↳ working on: [python CLI task manager](https://github.com/ishaan-pai/CLI-Task-Manager)
-
-- v0.1 → **backend engineering, machine learning, system design**
-
-- learning: **python, java, go**
+↳ email: **ishaanpai.dev@gmail.com**
+↳ v0.1 → [python CLI task manager](https://github.com/ishaan-pai/CLI-Task-Manager)
+↳ machine learning and backend engineering focused
+↳ learning: **python, java, go**
 
 
 <h3 align="left">Connect with me:</h3>
