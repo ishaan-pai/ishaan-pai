@@ -3,7 +3,7 @@
 
 ↳ email: **ishaanpai.dev@gmail.com**
 
-↳ currently working on: [python CLI task manager](https://github.com/ishaan-pai/CLI-Task-Manager)
+↳ currently working on: [portfolio website](https://github.com/ishaan-pai/Portfolio-website)
 
 ↳ machine learning and backend engineering focused
 
