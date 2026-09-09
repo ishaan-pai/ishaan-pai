@@ -5,7 +5,7 @@
 
 ↳ currently working on: [GPT-2 From Scratch](https://github.com/ishaan-pai/GPT-2-From-Scratch), [PokePai Website](https://github.com/ishaan-pai/PokePai-Store)
 
-↳ machine learning and backend engineering focused
+↳ backend engineering focused
 
 ↳ learning: **python, java, go**
 
