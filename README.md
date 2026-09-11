@@ -3,12 +3,13 @@
 
 ↳ email: **ishaanpai.dev@gmail.com**
 
-↳ currently working on: [Character Level GPT From Scratch](https://github.com/ishaan-pai/GPT-2-From-Scratch), [PokePai Website](https://github.com/ishaan-pai/PokePai-Store)
-
 ↳ backend engineering focused
+
+↳ personal projects: [hidden inventory](https://github.com/ishaan-pai/hidden-inventory)
 
 ↳ learning: **python, java, go**
 
+↳ currently working on: [Character Level GPT From Scratch](https://github.com/ishaan-pai/GPT-2-From-Scratch), [PokePai Website](https://github.com/ishaan-pai/PokePai-Store)
 
 <h3 align="left">find me at:</h3>
 <p align="left">
