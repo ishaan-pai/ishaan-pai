@@ -5,7 +5,7 @@
 
 ↳ backend engineering focused
 
-↳ personal projects: [hidden inventory](https://github.com/ishaan-pai/hidden-inventory)
+↳ [hidden inventory](https://github.com/ishaan-pai/hidden-inventory)
 
 ↳ learning: **python, java, go**
 
