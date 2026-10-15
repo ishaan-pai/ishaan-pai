@@ -9,7 +9,7 @@
 
 ↳ learning: **python, java, go**
 
-↳ currently working on: [Fullstack Delivery and Deployment](https://github.com/ishaan-pai/Fullstack-Delivery-and-Deployment), [PokePai Website](https://github.com/ishaan-pai/PokePai-Store)
+↳ currently working on: [Shopify Merchant Ops Agent](https://github.com/ishaan-pai/merchant-ops-agent), [PokePai Website](https://github.com/ishaan-pai/PokePai-Store)
 
 <h3 align="left">find me at:</h3>
 <p align="left">
